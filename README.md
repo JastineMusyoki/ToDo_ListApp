@@ -31,6 +31,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard.PNG)
 
 
