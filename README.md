@@ -29,3 +29,8 @@ Contributions are welcome! If you have any ideas for improvement or find any iss
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Dashboard Screenshot
+
+![Dashboard Screenshot](images/dashboard.png)
+
+
